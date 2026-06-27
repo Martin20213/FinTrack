@@ -92,7 +92,7 @@ cd fintrack
 ### 2️⃣ Backend setup (Laravel)
 
 ```bash
-cd backend
+cd backend-api
 ```
 
 **Install dependencies:**
