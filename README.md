@@ -15,6 +15,14 @@ A modern, full-stack personal finance application built with **Laravel 11** and 
 
 ---
 
+## 📸 Screenshots
+
+<img width="1516" height="692" alt="fintrack_kezdolap" src="https://github.com/user-attachments/assets/61b2fb55-330e-429e-b7df-285df0cdb994" />
+
+<img width="1534" height="680" alt="fintrack_szamlak" src="https://github.com/user-attachments/assets/c08a4d57-6f61-4ce5-92c4-5d768a489fcb" />
+
+
+---
 ## 🛠️ Tech Stack
 
 ### Backend
